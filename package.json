@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josuepaiva/aws-app-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josuepaiva/aws-app-sync/issues"
+  },
+  "homepage": "https://github.com/josuepaiva/aws-app-sync#readme",
+  "devDependencies": {
+    "serverless-appsync-plugin": "^1.12.1"
+  }
+}
